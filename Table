@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+menu {
+ display: block;
+ list-style-type: disc;
+ margin-block-start: 1em;
+ margin-block-end: 1em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ padding-inline-start: 40px;
+ color: red;
+}
+</style>
+</head>
+<body>
+ 
+<p>Web pages menu:</p>
+ 
+<menu>
+  <li><a href="https://www.google.com/">Google</a>  webpage</li>
+ <li><a href="https://www.pn.psu.ac.th/">PSU Pattani</a></li>
+ <li><a href="https://www.cnn.com/">CNN</a></li>
+</menu>
+ 
+<p>Change the default CSS settings to see the effect.</p>
+ 
+</body>
+</html>
